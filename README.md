@@ -1,9 +1,21 @@
-# GitHub Codespaces ♥️ Jupyter Notebooks
+# University Assignment: Machine Learning - Supervised Learning
 
-Welcome to your shiny new codespace! We've got everything fired up and running for you to explore Python and Jupyter notebooks.
+This project is part of my university assignment focusing on supervised learning technique applied to experimental data collected from injection molding machine under 3 different manufacturing conditons: normal condition, condition n1 and condition n5. The project aims to use various machine learning algorithms to build models for prediction,  addressing the following tasks:
 
-You've got a blank canvas to work on from a git perspective as well. There's a single initial commit with what you're seeing right now - where you go from here is up to you!
+## Introduction
 
-Everything you do here is contained within this one codespace. There is no repository on GitHub yet. If and when you’re ready you can click "Publish Branch" and we’ll create your repository and push up your project. If you were just exploring then and have no further need for this code then you can simply delete your codespace and it's gone forever.
+The project focuses on predicting the quality of an injection molding machine under different manufacturing conditions: normal, n1, and n5. The primiary objectives include:
+- **Problem Statement Discussion:** Understand and discuss the challenges and objectives related to predicting the quality of injection molding under different conditions.
+- **Regression or Classification:** Determine whether the problem is a regression or classification issue based on the nature of the prediction task.
+- **Data Separation:** Use the K-fold method to separate the experimental data into training and testing datasets.
 
-Hello! Please read 
+## Features
+- **Supervised Learning Techniques Implementation:** The project implements three different supervised learning algorithms for predictive modelling.
+- **Data Modelling and Prediction:** Utilize the K-fold method for training and testing data models to predict the quality of the injection molding machine under different conditions.
+- **Model Error Analysis:** Perform a comprehensive analysis of model errors to evaluate the accuracy and reliability of each method.
+
+## Supervised Learning Techniques 
+### Data Modelling
+Implement the followning supervised learning techniques: 
+1. **Decision Tree:** They are tree-like structures where each node represents a decision based on the input features. They are particularly usedful for their interpretability and ease of understanding.
+2. 
