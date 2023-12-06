@@ -4,7 +4,7 @@ This project is part of my university assignment focusing on supervised learning
 
 ## Introduction
 
-The project focuses on predicting the quality of an injection molding machine under different manufacturing conditions: normal, n1, and n5. The primiary objectives include:
+The project focuses on predicting the quality of an injection molding machine under different manufacturing conditions: normal, n1, and n5. The primary objectives include:
 - **Problem Statement Discussion:** Understand and discuss the challenges and objectives related to predicting the quality of injection molding under different conditions.
 - **Regression or Classification:** Determine whether the problem is a regression or classification issue based on the nature of the prediction task.
 - **Data Separation:** Use the K-fold method to separate the experimental data into training and testing datasets.
