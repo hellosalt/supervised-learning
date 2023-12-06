@@ -20,3 +20,7 @@ Implement the followning supervised learning techniques:
 1. **Decision Tree:** Tree-like structures where each node represents a decision based on the input features. They are particularly usedful for their interpretability and ease of understanding.
 2. **Random Forest:** It is an ensemble learning method that operates by constructing a multinude of decision trees at training time and outputting the class that is the mode of classes (classification) or mean prediction (regression) of the individual trees. 
 3. **Support Vector Machine:** It is a versatile algorithm used for both classification and regression tasks. It works by finding the optimal hyperplane that best separates data points of different classes in the feature space.
+
+
+## Credits
+This project was done by a group of 5 undergraduates. 
