@@ -17,5 +17,6 @@ The project focuses on predicting the quality of an injection molding machine un
 ## Supervised Learning Techniques 
 ### Data Modelling
 Implement the followning supervised learning techniques: 
-1. **Decision Tree:** They are tree-like structures where each node represents a decision based on the input features. They are particularly usedful for their interpretability and ease of understanding.
-2. 
+1. **Decision Tree:** Tree-like structures where each node represents a decision based on the input features. They are particularly usedful for their interpretability and ease of understanding.
+2. **Random Forest:** It is an ensemble learning method that operates by constructing a multinude of decision trees at training time and outputting the class that is the mode of classes (classification) or mean prediction (regression) of the individual trees. 
+3. **Support Vector Machine:** It is a versatile algorithm used for both classification and regression tasks. It works by finding the optimal hyperplane that best separates data points of different classes in the feature space.
